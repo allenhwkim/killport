@@ -1,0 +1,18 @@
+{
+  "name": "js-killport",
+  "version": "1.1.0",
+  "description": "Kill process running on given port",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allenhwkim/killport.git"
+  },
+  "homepage": "https://github.com/allenhwkim/killport",
+  "bugs": "https://github.com/allenhwkim/killport/issues",
+  "author": "Tiaan du Plessis",
+  "bin": {
+    "killport": "cli.js"
+  },
+  "keywords": [ "port", "process", "kill" ]
+}
