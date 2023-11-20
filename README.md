@@ -1,5 +1,6 @@
 # killport
-Kill process running on given port
+Kill process running on given port  
+Inspired by, https://github.com/ssnau/killport
 
 ## Install
 ```sh
